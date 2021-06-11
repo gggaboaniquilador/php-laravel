@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"articulos.php"
+			],
+			[
+				"if",
+				"ifx_prepare"
+			],
+			[
+				"total",
+				"totalArticulos"
+			],
+			[
+				"ru",
+				"rutas"
+			],
+			[
+				"ruta",
+				"rutaPagina"
+			],
+			[
+				"a",
+				"articulos"
+			],
+			[
+				"pagina",
+				"paginaActual"
+			],
+			[
+				"ca",
+				"categorias"
+			],
+			[
+				"redes",
+				"redesSociales"
+			],
+			[
+				"p",
+				"p_claves"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"c",
+				"contenido-categorias.php"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"padi",
+				"padding-right\tproperty"
+			],
+			[
+				"bg",
+				"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"modelo",
+				"modeloPalabra"
+			],
+			[
+				"datos",
+				"datosPalabras"
+			],
+			[
+				"val",
+				"valEmail"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"session_d",
+				"session_destroy"
+			],
+			[
+				"SESS",
+				"session_start"
+			],
+			[
+				"scti",
+				"script\tTag"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"fu",
+				"function_exists"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"lo",
+				"logout.php"
+			],
+			[
+				"ag",
+				"agregar_estudiante.html"
+			],
+			[
+				"enlacesModel",
+				"enlacesModel"
+			],
+			[
+				"enlaces",
+				"enlacesModel"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contenido-inicio.php",
+			"settings":
+			{
+				"buffer_size": 4279,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 169.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/blog-php/vistas/paginas/modulos/contenido-categorias.php",
+		"/C/xampp/htdocs/blog-php/modelos/blog.modelo.php",
+		"/C/xampp/htdocs/blog-php/vistas/plantilla.php",
+		"/C/xampp/htdocs/blog-php/vistas/js/script.js",
+		"/C/xampp/htdocs/blog-php/vistas/paginas/modulos/contenido-articulos.php",
+		"/C/Users/Gabriel/Documents/My Games/hosts",
+		"/C/Users/Gabriel/Documents/miproyectoxd/styles/style.css",
+		"/C/xampp/htdocs/blog-php/controladores/blog.controlador.php",
+		"/C/xampp/htdocs/blog-php/vistas/paginas/modulos/contenido-inicio.php",
+		"/C/xampp/htdocs/blog-php/vistas/paginas/modulos/footer.php",
+		"/C/xampp/htdocs/blog-php/vistas/paginas/modulos/menu.php",
+		"/C/xampp/htdocs/blog-php/vistas/paginas/modulos/cabecera.php",
+		"/C/xampp/htdocs/blog-php/vistas/paginas/modulos/banner.php",
+		"/C/xampp/htdocs/blog-php/vistas/paginas/modulos/banner-interno.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/404.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/cabecera.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/plantilla.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/index.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/.htaccess",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/.htaccess",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/footer.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/grid-categorias.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/css/style.css",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/modelos/blog.modelo.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/controladores/blog.controlador.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/menu.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/modelos/conexion.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/redes-sociales-movil.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/contenido-inicio.php",
+		"/C/Cursos/8. CMS Dinámico/1.1 08.MYSQL-BLOG.zip/08.MYSQL-BLOG/blog-php/vistas/plantilla.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/banner-interno.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/contenido-categorias.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/articulos.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/contenido-articulos.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/inicio.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/banner.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/categorias.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/vistas/paginas/modulos/buscador-movil.php",
+		"/C/xampp/htdocs/CursoPHP/07.MVC-BLOG/blog-php/controladores/plantilla.controlador.php",
+		"/C/xampp/htdocs/TareaAJAX/modelo/mdlpalabras.php",
+		"/C/xampp/htdocs/TareaAJAX/modelo/conexion.php",
+		"/C/xampp/htdocs/TareaAJAX/controlador/controlador.plantilla.php",
+		"/C/xampp/htdocs/TareaAJAX/controlador/controlador.registro.php",
+		"/C/xampp/htdocs/TareaAJAX/controlador/controlador.palabras.php",
+		"/C/xampp/htdocs/TareaAJAX/index.php",
+		"/C/xampp/htdocs/TareaAJAX/vistas/estilos/estilos.css",
+		"/C/xampp/htdocs/TareaAJAX/vistas/pruebaajax.php",
+		"/C/xampp/htdocs/CursoPHP/06.AJAX/ajax/formularios.ajax.php",
+		"/C/xampp/htdocs/CursoPHP/06.AJAX/vistas/paginas/editar.php",
+		"/C/xampp/htdocs/CursoPHP/06.AJAX/vistas/js/script.js",
+		"/C/xampp/htdocs/CursoPHP/06.AJAX/vistas/paginas/ingreso.php",
+		"/C/xampp/htdocs/CursoPHP/06.AJAX/modelos/Formularios.modelo.php",
+		"/C/xampp/htdocs/CursoPHP/06.AJAX/controladores/formularios.controlador.php",
+		"/C/xampp/htdocs/CursoPHP/06.AJAX/vistas/plantilla.php",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/vistas/paginas/editar.php",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/controladores/formularios.controlador.php",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/vistas/js/script.js",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/modelos/Formularios.modelo.php",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/vistas/plantilla.php",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/ajax/formularios.ajax.php",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/vistas/paginas/salir.php",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/.htaccess",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/vistas/paginas/registro.php",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/vistas/paginas/inicio.php",
+		"/C/xampp/htdocs/CursoPHP/05.SEGURIDAD/vistas/paginas/error404.php",
+		"/C/xampp/htdocs/CursoPHP/hola/.htaccess",
+		"/C/xampp/htdocs/CursoPHP/05.Seguridad Informatica/controladores/formularios.controlador.php",
+		"/C/xampp/htdocs/CursoPHP/05.Seguridad Informatica/vistas/paginas/registro.php",
+		"/C/xampp/htdocs/CursoPHP/05.Seguridad Informatica/vistas/paginas/editar.php",
+		"/C/xampp/htdocs/CursoPHP/05.Seguridad Informatica/vistas/paginas/inicio.php",
+		"/C/xampp/htdocs/CursoPHP/05.Seguridad Informatica/.htaccess",
+		"/C/xampp/htdocs/CursoPHP/05.Seguridad Informatica/modelos/Formularios.modelo.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/vistas/paginas/editar.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/controladores/formularios.controlador.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/modelos/Formularios.modelo.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/vistas/paginas/inicio.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/vistas/paginas/registro.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/vistas/paginas/salir.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/vistas/paginas/ingreso.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/vistas/plantilla.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/modelos/conexion.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/index.php",
+		"/C/Cursos/4. PDO Y MYSQL/04.MySQL-PDO/index.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/Formularios.modelo.php",
+		"/C/xampp/htdocs/CursoPHP/04.PDO-MYSQL/conexion.php",
+		"/C/xampp/htdocs/CursoPHP/03.MVC/index.php",
+		"/C/xampp/htdocs/CursoPHP/03.MVC/controladores/plantilla.controlador.php",
+		"/C/xampp/htdocs/CursoPHP/03.MVC/vistas/paginas/registro.php",
+		"/C/xampp/htdocs/universidad/estudiante/agregar_estudiante.html",
+		"/C/xampp/htdocs/universidad/estudiante/listar_estudiante.php",
+		"/C/xampp/htdocs/universidad/css/estilos.css",
+		"/C/xampp/htdocs/universidad/carrera/listar_carrera.php",
+		"/C/xampp/htdocs/universidad/login.php",
+		"/C/xampp/htdocs/universidad/especialidad/listar_especialidad.php",
+		"/C/xampp/htdocs/universidad/principal.php",
+		"/C/xampp/htdocs/universidad/carrera/agregar_carrera.html",
+		"/C/xampp/htdocs/universidad/especialidad/agregar_especialidad.html",
+		"/C/xampp/htdocs/universidad/css/estilos_form.css",
+		"/C/xampp/htdocs/universidad/estudiante/guardar_est.php",
+		"/C/xampp/htdocs/universidad/especialidad/guardar_esp.php",
+		"/C/xampp/htdocs/universidad/carrera/guardar_car.php",
+		"/C/xampp/htdocs/universidad/agregar_estudiante.html",
+		"/C/xampp/htdocs/universidad/listar_estudiante.php",
+		"/C/xampp/htdocs/universidad/guardar_car.php",
+		"/C/xampp/htdocs/universidad/guardar_esp.php",
+		"/C/xampp/htdocs/universidad/guardar_est.php",
+		"/C/xampp/htdocs/universidad/verificausr.php",
+		"/C/Cursos/Máster en PHP 7+, POO, MVC, MySQL, Laravel 6+, CodeIgniter 4.lpxg",
+		"/C/xampp/htdocs/CursoPHP/03.MVC/HTML/index.html",
+		"/C/xampp/htdocs/CursoPHP/03.MVC/vistas/plantilla.php",
+		"/D/f3-crack/leeme.nfo",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/Vistas/Modulos/navegacion.php",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/index.php",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/models/enlaces.php",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/Controladores/Controller.php",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/Vistas/Modulos/registro.php",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/Vistas/Modulos/salir.php",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/Vistas/Modulos/usuarios.php",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/Vistas/Modulos/ingresar.php",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/Vistas/Modulos/editar.php",
+		"/C/xampp/htdocs/CursoPHP/MVC 2/Vistas/Modulos/contactenos.php",
+		"/C/xampp/htdocs/CursoPHP/MVC_2/Vistas/Modulos/editar.php",
+		"/C/xampp/htdocs/CursoPHP/MVC/Vistas/template.php",
+		"/C/xampp/htdocs/CursoPHP/MVC/index.php",
+		"/C/xampp/htdocs/CursoPHP/MVC/Controladores/Controller.php",
+		"/C/xampp/htdocs/CursoPHP/MVC/models/model.php",
+		"/C/xampp/htdocs/CursoPHP/MVC/vistas/modulos/servicios.php",
+		"/C/xampp/htdocs/CursoPHP/MVC/vistas/modulos/nosotros.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\blog-php\\vistas\\paginas\\modulos",
+			"C:\\xampp\\htdocs\\blog-php"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".$value[\"ruta_articulo\"]; ?>\"><h5 class=\"d-block d-lg-none py-3\">",
+			".$value[\"ruta_articulo\"];",
+			"¡.$value",
+			"0",
+			"$_GET[\"pagina\"]",
+			"]);",
+			"$_GET[\"pagina\"]",
+			"$_GET[\"pagina",
+			"$_GET[\"pagina\"]",
+			"<img src\"",
+			"<img src=\"",
+			"sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<img src=\"",
+			"<img src\"<?php echo $blog[\"dominio\"];?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contenido-inicio.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1180,
+								1096
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Edge Theme/Edge Night Sky.tmTheme",
+							"color_helper.file_palette":
+							[
+								"#79ff39ff"
+							],
+							"color_helper.preview_meta":
+							{
+								"1651":
+								[
+									-1151254874,
+									7,
+									"hex",
+									1373279661,
+									1,
+									"1596841376.844333"
+								]
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex",
+									"webcolors",
+									"hex_compressed",
+									"hexa",
+									"hsl",
+									"hexa_compressed",
+									"hwb",
+									"rgb",
+									"graya",
+									"gray",
+									"rgba",
+									"hsla",
+									"hwba"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1596838132.3,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "0.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"MVC\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
